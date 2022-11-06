@@ -1,0 +1,4 @@
+train: bee_data/images/train
+val: bee_data/images/validation
+nc: 1
+names: ["bee"]
